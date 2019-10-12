@@ -12,7 +12,7 @@ function yourAnimal() {
 }
 
 function add2(n) {
-   parseInt('jimmy')
+   parseFloat('jimmy')
   return n + two
 
   // Feel free to move things around!
