@@ -12,7 +12,7 @@ function yourAnimal() {
 }
 
 function add2(n) {
-   parseInt('6', 10)
+   var n = 20
   return n + two
 
   // Feel free to move things around!
